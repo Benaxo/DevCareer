@@ -18,6 +18,17 @@ DevCareer est une application mobile conçue pour les développeurs à la recher
 React Native pour le développement d'applications mobiles multiplateformes.
 Expo pour l'outillage et le workflow de développement.
 
+# Installation:
+
+## Cloner le dépôt
+### git clone https://github.com/yourusername/yourrepositoryname.git
+
+## Installer les dépendances
+### npm install
+
+## Démarrer le serveur de développement
+### npx expo start
+
 # Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
