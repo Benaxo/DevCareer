@@ -4,6 +4,8 @@
 
 DevCareer est une application mobile conçue pour les développeurs à la recherche de leur prochain défi professionnel. Elle propose une interface intuitive qui permet aux utilisateurs de parcourir, de rechercher et de postuler à des offres d'emploi spécifiquement dédiées aux postes de développement. Grâce à son design réactif et à ses filtres de recherche avancés, DevJobFinder vise à simplifier le processus de recherche d'emploi pour les développeurs du monde entier.
 
+<img width="343" alt="Capture d'écran 2023-10-11 163432" src="https://github.com/Benaxo/DevCareer/assets/79756073/24e53dea-ab02-44d7-b55b-4ab754b60e4b">
+
 ## Fonctionnalités principales:
 
 📈 Parcourir les offres d'emploi populaires et à proximité dans le domaine du développement.
